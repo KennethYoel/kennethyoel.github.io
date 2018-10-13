@@ -1,2 +1,2 @@
 # kennethyoel.github.io
-_A personal portfolio webpage written in HTML, CSS, JS, jQuery._
+A personal portfolio webpage written in _HTML_, _CSS_, _JS_, _jQuery_.
