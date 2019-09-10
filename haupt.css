@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   margin: 0;
 }
 p {
@@ -192,38 +192,6 @@ header > h1 {
   border-radius: 1rem;
   padding: 2rem;
 }
-
-/* Skillset section styling */
-#Skillset {
-  color: #3f3f40; /* Beluga */
-}
-/* Container for skill bars */
-.container {
-  width: 100%; /* Full width */
-  background-color: #f2f2f2; /* Grey background */
-}
-.skills {
-  text-align: right; /* Right-align text */
-  padding-right: 1.61rem; /* Add some right padding */
-  line-height: 1.61rem; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
-  color: white; /* White text color */
-}
-.html {
-  width: 20%;
-  background: linear-gradient(to right, #9fc6a8 0%, #c6a79f 100%);
-} /* Mosaic Blue */
-.css {
-  width: 20%;
-  background: linear-gradient(to right, #9fc6a8 0%, #c6a79f 100%);
-} /* Mosaic Blue */
-.js {
-  width: 5%;
-  background: linear-gradient(to right, #9fc6a8 0%, #c6a79f 100%);
-} /* Mosaic Blue */
-.php {
-  width: 1%;
-  background: linear-gradient(to right, #9fc6a8 0%, #c6a79f 100%);
-} /* Mosaic Blue */
 
 /* Education section */
 #Education {
